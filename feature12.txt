@@ -1,3 +1,4 @@
 Hallo.
 Mein Name ist Feature 12.
 Ich wurde gezwungen hier zu sein, darf allerdings nichts tun, da ich nur eine *.txt-Datei bin.
+Das macht mit sehr traurig.
